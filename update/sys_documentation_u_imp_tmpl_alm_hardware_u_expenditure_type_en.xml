@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_expenditure_type" label="Expenditure type" language="en" table="u_imp_tmpl_alm_hardware">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_expenditure_type</element>
+            <help/>
+            <hint/>
+            <label>Expenditure type</label>
+            <language>en</language>
+            <name>u_imp_tmpl_alm_hardware</name>
+            <plural>Expenditure types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-08 13:51:03</sys_created_on>
+            <sys_id>85e0bcf21b100010e3cd877ddc4bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Expenditure type</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_alm_hardware_u_expenditure_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-08 13:51:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
